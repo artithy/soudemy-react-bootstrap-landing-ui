@@ -22,9 +22,9 @@ export default function Hero() {
                             className="text-muted mt-3 text-center text-nowrap"
                             style={{
                                 maxWidth: "400px",
-                                fontSize: "14px",      // text ছোট
-                                lineHeight: "28px",    // line বড়
-                                margin: "0 auto"       // পুরো text ব্লকটি center
+                                fontSize: "14px",
+                                lineHeight: "28px",
+                                margin: "0 auto"
                             }}
                         >
                             Software and analytics services will render your chunks into meaningful data.
